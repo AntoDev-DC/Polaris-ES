@@ -15,3 +15,7 @@
 `sh ./install.sh`
 **Despues, para iniciar el bot de discord, tienes que usar este comando:**
 `sh ./start.sh`
+## Extra
+**Si te salta un error, entra a mi server de discord**
+
+![Server](https://discord.com/api/guilds/1372656099391438878/widget.png?style=shield)
