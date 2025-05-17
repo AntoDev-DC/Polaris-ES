@@ -9,6 +9,7 @@ echo Preparando archivo .sh para iniciar...
 move /Y .\init\init.cmd .\
 
 :: Eliminar carpeta "init"
+del ./init.sh
 rmdir /S /Q .\init\
 
 echo Se borrará el archivo de instalación...
