@@ -18,4 +18,4 @@
 ## Extra
 **Si te salta un error, entra a mi server de discord**
 
-![Server](https://discord.com/api/guilds/1372656099391438878/widget.png?style=banner2)
+![Server](https://discord.com/api/guilds/1372656099391438878/widget.png?style=shield)
