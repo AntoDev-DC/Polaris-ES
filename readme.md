@@ -1,7 +1,7 @@
 # Polaris
 ### Este Repositorio De Github no es Oficial. El Oficial es Este: [Polaris](https://github.com/GDColon/Polaris-Open.git)
 
-**La Guia de Instalacion Esta En [DotCord](https://discord.gg/dotcord)**
+**La Guia de Instalacion Esta En [DotCord](https://discord.gg/dotcord), en biblioteca. [URL Directa al post](https://canary.discord.com/channels/888326427932524555/1372984970120790177)**
 
 ## Novedades 1.1.0
 **Hemos Implantado un instalador rapido para Linux, MacOS y Windows**
@@ -18,4 +18,4 @@
 ## Extra
 **Si te salta un error, entra a mi server de discord**
 
-![Server](https://discord.com/api/guilds/1372656099391438878/widget.png?style=shield)
+[![Server](https://discord.com/api/guilds/1372656099391438878/widget.png?style=shield)](https://discord.gg/daJ6zAnHMT)
