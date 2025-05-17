@@ -64,7 +64,7 @@ client.on("ready", () => {
 
     client.application.commands.fetch() // cache slash commands
     .then(cmds => {
-        if (cmds.size < 1) { // no commands!! deploy to test server
+        if (true) { // no commands!! deploy to test server
             console.info("!!! No global commands found, deploying dev commands to test server (Use /deploy global=true to deploy global commands)")
             client.commands.get("deploy").run(client, null, client.globalTools)
         }
